@@ -1,35 +1,25 @@
-# university-slot-management-system
-Slot management system for university scheduling and conflict avoidance
-
-
-# University Slot Management System
+# University Slot Management System (C)
 
 ## Overview
-The University Slot Management System is designed to automate the allocation
-of time slots in a university environment. The system helps avoid scheduling
-conflicts between courses, faculty, and classrooms.
+This project implements a menu-driven University Slot Management System using
+the C programming language. It helps manage academic schedules by allowing users
+to view, book, and cancel time slots efficiently.
 
-## Problem Statement
-Manual scheduling of university slots is time-consuming and prone to errors
-such as overlapping classes and resource conflicts. This project aims to
-provide a structured and efficient solution.
+## Features
+- View daily timetable
+- Display available (free) slots
+- Book a slot for a subject
+- Cancel an existing slot
+- Case-insensitive day and slot handling
 
-## Objectives
-- Automate slot allocation
-- Avoid timetable conflicts
-- Improve scheduling efficiency
-- Reduce manual effort
-- Helps students to get to know about the timetable better
+## Data Structure Used
+- 2D array for timetable storage
+- Structures and strings for slot details
 
 ## Technologies Used
-- Programming Language: (c++)
-- Database: (to be updated)
-- Tools: VS Code
+- C Programming
+- GitHub
 
-## Scope
-This project focuses on basic slot allocation logic and can be extended to
-include web interfaces and optimization algorithms.
-
-
-
+## How to Run
+```bash
 
